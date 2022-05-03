@@ -1,5 +1,3 @@
-[![CircleCI](https://circleci.com/gh/shaochuancs/dashboard-typesetter/tree/master.svg?style=svg&circle-token=e2cbbe00e2b56b91f5336c7a0c5f933db78f2f6b)](https://circleci.com/gh/shaochuancs/dashboard-typesetter/tree/master)
-
 # DashboardTypesetter
 
 An Out-of-the-Box typesetting tool for dashboard. With chart data of dashboard, DashboardTypesetter can generate PDF automatically, in publishing quality.
@@ -105,6 +103,6 @@ DashboardTypesetter support following chart library:
 I'm also providing customization service on dashboard/chart typesetting, please contact shaochuancs@gmail.com if you are interested.
 
 ## License
-(The Private License for DashboardTypesetter)
+(The Proprietary License for DashboardTypesetter, free for commercial use)
 
 Copyright (c) 2021-2022 Chuan Shao &lt;shaochuancs@gmail.com&gt;
