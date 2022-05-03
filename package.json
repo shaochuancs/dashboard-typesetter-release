@@ -27,7 +27,7 @@
     "lodash": "^4.17.21",
     "log4js": "^6.3.0",
     "moment": "^2.29.1",
-    "puppeteer": "^13.4.0",
+    "puppeteer": "13.4.0",
     "utf-8-validate": "^5.0.8"
   }
 }
