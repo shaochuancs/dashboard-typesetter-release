@@ -1,0 +1,33 @@
+{
+  "name": "dashboard-typesetter-release",
+  "version": "1.0.0",
+  "description": "An Out-of-the-Box typesetting tool for dashboard",
+  "scripts": {
+    "start": "node dist/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaochuancs/dashboard-typesetter-release.git"
+  },
+  "keywords": [
+    "Dashboard",
+    "LaTeX",
+    "typesetting"
+  ],
+  "author": "Chuan Shao",
+  "license": "private",
+  "bugs": {
+    "url": "https://github.com/shaochuancs/dashboard-typesetter-release/issues"
+  },
+  "homepage": "https://github.com/shaochuancs/dashboard-typesetter-release",
+  "dependencies": {
+    "bufferutil": "^4.0.6",
+    "esserializer": "^1.2.4",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "log4js": "^6.3.0",
+    "moment": "^2.29.1",
+    "puppeteer": "^13.4.0",
+    "utf-8-validate": "^5.0.8"
+  }
+}
