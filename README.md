@@ -17,7 +17,7 @@ You can also run DashboardTypesetter from release code.
 1. Run `git clone https://github.com/shaochuancs/dashboard-typesetter-release.git`, or download [release package](https://github.com/shaochuancs/dashboard-typesetter-release/releases).
 2. Run `npm install`. This will take a few minutes, be patient.
 3. Install [TeX Live](https://tug.org/texlive/) on server (if not yet)
-4. Run `npm start` to launch the server.
+4. Run `npm start` to launch the service. The service will expose API on port 3000.
 
 ## API
 
